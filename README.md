@@ -2,9 +2,12 @@
 > An algorithm a day ..
 
 
-###Algorithms 
+### Algorithms 
 
 
-1-26-2020 : Kruskal's algorithm for minimum spanning tree
 
-1-27-2020 : Prim's algorithm for minimum spanning tree
+* 1-26-2020 : Kruskal's algorithm for minimum spanning tree
+            - (link to Union Find)
+
+* 1-27-2020 : Prim's algorithm for minimum spanning tree 
+            - (link to Priority Queue and Heap)
