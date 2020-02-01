@@ -6,13 +6,32 @@
 
 
 
-* 1-26-2020 : Kruskal's algorithm for minimum spanning tree
-            - (link to Union Find)
+* Day 1 : Kruskal's algorithm for minimum spanning tree
 
-* 1-27-2020 : Prim's algorithm for minimum spanning tree 
-            - (link to Priority Queue and Heap)
+          - [ ] Implement using Union Find
 
-* 1-28-2020 : Dijkstra's algorithm for shortest path from source
-            - (link to Priority Queue and Heap)
+* Day 2 : Prim's algorithm for minimum spanning tree
+
+          - [ ] Implement using [priority queues](./DataStructures/PriorityQueue)
+ 
+
+* Day 3 : Dijkstra's algorithm for shortest path from source
+ 
+          - [x] Implement without priority queues
+
+          - [ ] Implement using priority queues
+
+
+
+### Data Structures
+
+
+* Day 1 : Union Find 
+
+* Day 2 : Priority queues
+
+* Day 3 : Heaps
+
+
 
 
