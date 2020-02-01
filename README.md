@@ -12,8 +12,7 @@
 
 * Day 2 : Prim's algorithm for minimum spanning tree
 
-[ ] Implement using [priority queues](#priority_queues)
- 
+          - [ ] Implement using priority queues
 
 * Day 3 : Dijkstra's algorithm for shortest path from source
  
