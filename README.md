@@ -12,7 +12,7 @@
 
 * Day 2 : Prim's algorithm for minimum spanning tree
 
-          - [ ] Implement using [priority queues](./DataStructures/PriorityQueue/Priority_queues.pdf)
+          - [ ] Implement using [priority queues](#Day_2_:_Priority_queues)
  
 
 * Day 3 : Dijkstra's algorithm for shortest path from source
@@ -26,11 +26,11 @@
 ### Data Structures
 
 
-* Day 1 : Union Find 
+# Day 1 : Union Find 
 
-* Day 2 : Priority queues
+# Day 2 : Priority queues
 
-* Day 3 : Heaps
+# Day 3 : Heaps
 
 
 
