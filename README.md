@@ -6,34 +6,40 @@
 
 
 
-* Day 1 : Kruskal's algorithm for minimum spanning tree
+<<<<<<< HEAD
+*1 : Kruskal's algorithm for minimum spanning tree
 
-          - [ ] Implement using Union Find
+   - [ ] Implement using Union Find
 
-* Day 2 : Prim's algorithm for minimum spanning tree
 
-          - [ ] Implement using priority queues
+*2 : Prim's algorithm for minimum spanning tree
 
-* Day 3 : Dijkstra's algorithm for shortest path from source
+   - [ ] Implement using priority queues
  
-          - [x] Implement without priority queues
 
-          - [ ] Implement using priority queues
+*3 : Dijkstra's algorithm for shortest path from source
+ 
+   - [x] Implement without priority queues
 
-
-# Priority queues 
-
+   - [ ] Implement using priority queues
 
 
 
 ### Data Structures
 
 
-* Day 1 : Union Find
+*1 : Union Find 
 
-* Day 2 : Priority queues
+   - [ ] Implement
 
-* Day 3 : Heaps
 
+*2 : Heaps
+ 
+   - [x] Implement
+
+
+*3 : Priority queues
+
+   - [ ] Implement
 
 
