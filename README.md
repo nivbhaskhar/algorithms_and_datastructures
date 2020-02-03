@@ -21,6 +21,13 @@
 
    - [ ] Implement using priority queues
 
+4 : Topological Sort
+ 
+   - [ ] Shortest path in a DAG
+
+   - [ ] Longest path in a DAG ?
+
+
 
 
 ### Data Structures
