@@ -25,12 +25,18 @@
  
    - [ ] Shortest path in a DAG
 
-   - [ ] Longest path in a DAG ?
+   - [ ] Longest path in a DAG 
 
 
 
 
 ### Data Structures
+
+0 : Stacks and Queues
+
+  - [ ] Easy implementation using built in lists
+
+  - [ ] Easy implantation using built in deques
 
 
 1 : Union Find 
