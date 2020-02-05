@@ -4,52 +4,53 @@
 
 ### Algorithms 
 
-
-1 : Kruskal's algorithm for minimum spanning tree
+*  BFS 
+   - [ ] Implement a problem using queues
+   
+   
+* Kruskal's algorithm for minimum spanning tree
 
    - [ ] Implement using Union Find
 
 
-2 : Prim's algorithm for minimum spanning tree
+*  Prim's algorithm for minimum spanning tree
 
    - [ ] Implement using priority queues
  
 
-3 : Dijkstra's algorithm for shortest path from source
+*  Dijkstra's algorithm for shortest path from source
  
    - [x] Implement without priority queues
 
    - [ ] Implement using priority queues
 
-4 : Topological Sort
+*  Topological Sort
  
-   - [ ] Shortest path in a DAG
-
-   - [ ] Longest path in a DAG 
+   - [x] Implement longest/shortest path in a DAG 
 
 
 
 
 ### Data Structures
 
-0 : Stacks and Queues
+* Stacks and Queues
 
-  - [ ] Easy implementation using built in lists
+  - [x] Easy implementation using built in lists
 
-  - [ ] Easy implantation using built in deques
+  - [x] Easy implantation using built in deques
 
 
-1 : Union Find 
+* Union Find 
 
    - [ ] Implement
 
 
-2 : Heaps
+* Heaps
  
    - [x] Implement
 
 
-3 : Priority queues
+* Priority queues
 
    - [ ] Implement
 
