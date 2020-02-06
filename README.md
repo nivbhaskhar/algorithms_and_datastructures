@@ -5,7 +5,8 @@
 ### Algorithms 
 
 *  BFS 
-   - [ ] Implement a problem using queues
+
+   - [x] Implement a problem using queues
    
    
 * Kruskal's algorithm for minimum spanning tree
