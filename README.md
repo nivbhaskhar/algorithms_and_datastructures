@@ -4,9 +4,15 @@
 
 ### Algorithms 
 
+
 *  BFS 
 
    - [x] Implement a problem using queues
+
+
+*  DFS 
+
+   - [ ] Implement a problem using recursion
    
    
 * Kruskal's algorithm for minimum spanning tree
@@ -27,7 +33,10 @@
 
 *  Topological Sort
  
-   - [x] Implement longest/shortest path in a DAG 
+   - [x] Implement longest path in a DAG  
+   
+   - [x] Implement shortest path in a DAG  
+
 
 
 
