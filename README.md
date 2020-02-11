@@ -4,7 +4,19 @@
 
 ### Algorithms 
 
+* Sorting
 
+  - [x] Quick sort
+  
+  - [x] Insertion sort
+  
+  - [ ] Bubble sort
+  
+  - [ ] Merge sort
+  
+  - [ ] Implementation
+  
+  
 *  BFS 
 
    - [x] Implement a problem using queues
