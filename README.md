@@ -67,7 +67,7 @@
   - [x] Easy implantation using built in deques
 
 
-* Union Find 
+* Union Find (TO DO)
 
    - [ ] Implement
 
@@ -80,5 +80,11 @@
 * Priority queues
 
    - [ ] Implement
+
+
+* Binary Search Trees
+
+   - [ ] Implement
+
 
 
