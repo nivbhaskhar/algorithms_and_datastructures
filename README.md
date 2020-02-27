@@ -31,22 +31,28 @@
 
    - [ ] Implement a problem using DFS
    
+
+
+* Minimum spanning tree
+
+    - [x] Kruskal's algorithm 
+
+    - [ ] Implement Kruskal using Union Find
+
+    - [x] Prim's algorithm 
+
+    - [ ] Implement Prim using priority queues
+ 
+
+* Shortest paths 
+
+   - [x] Dijkstra's algorithm for shortest path from source
+ 
+   - [x] Implement Dikkstra without priority queues
+
+   - [ ] Implement Dijkstra using priority queues
+
    
-* Kruskal's algorithm for minimum spanning tree
-
-   - [ ] Implement using Union Find
-
-
-*  Prim's algorithm for minimum spanning tree
-
-   - [ ] Implement using priority queues
- 
-
-*  Dijkstra's algorithm for shortest path from source
- 
-   - [x] Implement without priority queues
-
-   - [ ] Implement using priority queues
 
 *  Topological Sort
  
@@ -84,7 +90,7 @@
 
 * Binary Search Trees
 
-   - [ ] Implement
+   - [ ] Implement balanced binary search trees
 
 
 
