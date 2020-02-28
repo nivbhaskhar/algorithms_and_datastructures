@@ -60,7 +60,23 @@
    
    - [x] Implement shortest path in a DAG  
 
+* Scheduling
 
+   - [x] Interval Scheduling
+   
+   - [x] Minimizing Maximum Lateness
+      
+   - [ ] Minimizing (sum of lateness)
+   
+   - [ ] Implement interval scheduling problem
+   
+ 
+* Huffman codes
+
+-  [ ] Implement Huffman codes
+
+
+   
 
 
 
