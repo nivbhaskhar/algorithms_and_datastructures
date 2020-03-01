@@ -89,9 +89,11 @@
   - [x] Easy implantation using built in deques
 
 
-* Union Find (TO DO)
+* Union Find 
 
-   - [ ] Implement
+   - [ ] Implement using array
+   
+   - [ ] Implement using pointers
 
 
 * Heaps
