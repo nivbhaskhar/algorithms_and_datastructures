@@ -33,7 +33,7 @@
    
 
 
-* Minimum spanning tree
+* Minimum spanning tree (Greedy)
 
     - [x] Kruskal's algorithm 
 
@@ -44,7 +44,7 @@
     - [ ] Implement Prim using priority queues
  
 
-* Shortest paths 
+* Shortest paths (Greedy)
 
    - [x] Dijkstra's algorithm for shortest path from source
  
@@ -60,7 +60,8 @@
    
    - [x] Implement shortest path in a DAG  
 
-* Scheduling
+
+* Scheduling (Greedy)
 
    - [x] Interval Scheduling
    
@@ -71,9 +72,16 @@
    - [ ] Implement interval scheduling problem
    
  
-* Huffman codes
+* Huffman codes (Greedy)
 
 -  [ ] Implement Huffman codes
+
+
+* Divide and Conquer
+
+- [x] Counting Inversions 
+
+- [x] Closest Pair of Points
 
 
    
