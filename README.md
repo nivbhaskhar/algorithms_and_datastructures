@@ -83,6 +83,9 @@
 
 - [x] Closest Pair of Points
 
+* Dynamic Programming
+
+- [x] DP vs memoization
 
    
 
