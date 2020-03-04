@@ -61,7 +61,7 @@
    - [x] Implement shortest path in a DAG  
 
 
-* Scheduling (Greedy)
+*  Scheduling (Greedy)
 
    - [x] Interval Scheduling
    
@@ -72,20 +72,24 @@
    - [ ] Implement interval scheduling problem
    
  
-* Huffman codes (Greedy)
+*  Huffman codes (Greedy)
 
--  [ ] Implement Huffman codes
+   -  [ ] Implement Huffman codes
 
 
-* Divide and Conquer
+*  Divide and Conquer
 
-- [x] Counting Inversions 
+   - [x] Counting Inversions 
 
-- [x] Closest Pair of Points
+   - [x] Closest Pair of Points
 
 * Dynamic Programming
 
-- [x] DP vs memoization
+   - [x] DP vs memoization
+   
+   - [x] Gridpaths, commonsubwords/sequences, edit distances
+   
+   - [x] Matrix multiplication
 
    
 
