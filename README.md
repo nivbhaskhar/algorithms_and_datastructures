@@ -51,6 +51,10 @@
    - [x] Implement Dikkstra without priority queues
 
    - [ ] Implement Dijkstra using priority queues
+   
+   - [x] Bellman-Ford
+   
+   - [x] All pairs shortest paths
 
    
 
@@ -87,10 +91,29 @@
 
    - [x] DP vs memoization
    
-   - [x] Gridpaths, commonsubwords/sequences, edit distances
+   - [x] Gridpaths, common subwords/sequences, edit distances
    
    - [x] Matrix multiplication
 
+* Sliding Windows 
+
+   - [x] Minimum window length
+   
+   - [x] Max bit flip
+     
+   - [x] Max sum subarray  
+   
+ * Linear Programming
+ 
+ - [x] Production Planning example/Simplex
+ 
+ - [x] Bandwidth Allocation example/Simplex
+ 
+    ** Network Flows
+    
+    - [x] Network Flows
+    
+    -[x] Bipartite Matching
    
 
 
