@@ -10,6 +10,8 @@
   
   - [x] Insertion sort
   
+  - [x] Selection sort
+  
   - [ ] Bubble sort
   
   - [ ] Merge sort
