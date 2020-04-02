@@ -116,6 +116,12 @@
     - [x] Network Flows
     
     -[x] Bipartite Matching
+ 
+ * KMP 
+ 
+  -[x] KMP Text matching
+  
+  -[x] KMP Prefix Suffix Table   
    
 
 
