@@ -73,18 +73,18 @@
  
  * KMP 
  
-   -[x] KMP Text matching
+   - [x] KMP Text matching
   
-   -[x] KMP Prefix Suffix Table   
+   - [x] KMP Prefix Suffix Table   
    
     
 * Streaming Algorithms
 
-   -[x] Bayer Moore algorithm
+   - [x] Bayer Moore algorithm
    
  * Matching 
  
-   -[x] Blossom algorithm 
+   - [x] Blossom algorithm 
 
 
 
