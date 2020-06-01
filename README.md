@@ -73,8 +73,7 @@
  
  * KMP 
  
-   - [x] KMP Text matching
-  
+   - [x] KMP Text matching  
    - [x] KMP Prefix Suffix Table   
    
     
@@ -103,5 +102,10 @@
 ### Techniques
 
 * Bit Manipulation
+
+
+### Code
+
+* In order traversal 
 
 
