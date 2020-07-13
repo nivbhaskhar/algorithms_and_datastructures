@@ -27,11 +27,11 @@ _An algorithm a day .._
   - BFS 
     - [x] [Notes](Algorithms/BFS/BFS.pdf)  
     - [ ] [Code](Algorithms/BFS/BFS.py)
-    - [x] Sample problem [Notes](Algorithms/BFS/BFS_problem.pdf), [Code](Algorithms/BFS/BFS_problem.py)
+    - [x] Sample problem : [Notes](Algorithms/BFS/BFS_problem.pdf), [Code](Algorithms/BFS/BFS_problem.py)
   - DFS  
-    - [x] [Notes](Algorithms/DFS/DFS.pdf), [DFS no.](Algorithms/DFS/DFS_numbering.pdf), [DFS no. for directed graphs](Algorithms/DFS/DFS_numbering_ for_directed_graphs.pdf)  
+    - [x] [Notes](Algorithms/DFS/DFS.pdf), [DFS numbering](Algorithms/DFS/DFS_numbering.pdf), [DFS numbering for directed graphs](Algorithms/DFS/DFS_numbering_for_directed_graphs.pdf)  
     - [ ] [Code](Algorithms/DFS/DFS.py)
-    - [ ] Sample problem [Notes](Algorithms/DFS/DFS_problem.pdf), [Code](Algorithms/DFS/DFS_problem.py)
+    - [ ] Sample problem : [Notes](Algorithms/DFS/DFS_problem.pdf), [Code](Algorithms/DFS/DFS_problem.py)
   - Finding articulation points
     - [x] [Notes](Algorithms/ArticulationPoints/Articulation_points.pdf)  
     - [ ] [Code](Algorithms/ArticulationPoints/Articulation_points.py)
@@ -60,19 +60,25 @@ _An algorithm a day .._
    - [x] Minimizing Maximum Lateness
    - [ ] Minimizing (sum of lateness)
    - [ ] Interval scheduling problem
-   
-*  Huffman codes (Greedy)
+   - [x] [Huffman codes](Algorithms/HuffmanCodes/Huffman_codes.pdf) 
 
-*  Divide and Conquer
+* Divide and Conquer
 
-   - [x] Counting Inversions 
-   - [x] Closest Pair of Points
+  - Counting inversions  
+    - [x] [Notes](Algorithms/DivideConquer/DivideConquer_inversions.pdf)  
+    - [ ] [Code](Algorithms/DivideConquer/DivideConquer_inversions.py)
+  - Closest Pair of Points  
+    - [x] [Notes](Algorithms/DivideConquer/DivideConquer_closestpairofpoints.pdf)  
+    - [ ] [Code](Algorithms/DivideConquer/DivideConquer_closestpairofpoints.py)
+  
 
 * Dynamic Programming
 
-   - [x] DP vs memoization
-   - [x] Grid paths, common subwords/sequences, edit distances
-   - [x] Matrix multiplication
+   - [x] [DP vs memoization](/Algorithms/DynamicProgramming/DPvsMemoization.pdf)
+   - [x] [Grid paths, common subwords/sequences, edit distances](Algorithms/DynamicProgramming/DP_problems.pdf)
+   - [x] [Matrix multiplication](Algorithms/DynamicProgramming/Matrix_multiplication.pdf)
+   - [ ] [Matrix multiplication Code](Algorithms/DynamicProgramming/Matrix_multiplication.py)
+
 
 * Sliding Windows 
    
@@ -80,19 +86,21 @@ _An algorithm a day .._
    - [x] Max bit flip
    - [x] Max sum subarray  
    
- * Linear Programming
+* Linear Programming
    
    - [x] Production Planning example/Simplex
    - [x] Bandwidth Allocation example/Simplex
    
-   ** Network Flows
+   - Network Flows
       - [x] Network Flows
       - [x] Bipartite Matching
  
- * KMP 
- 
-   - [x] KMP Text matching  
-   - [x] KMP Prefix Suffix Table   
+* KMP 
+
+  - [x] [KMP Text matching](Algorithms/KMP/KMP-textmatching.pdf)   
+  - [x] [KMP Prefix Suffix Table](Algorithms/KMP/KMP-prefix_suffix_table.pdf)  
+  - [ ] [Code](Algorithms/KMP/KMP.py)  
+
    
     
 * Streaming Algorithms
