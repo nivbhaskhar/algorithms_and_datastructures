@@ -21,7 +21,7 @@ _An algorithm a day .._
     - [ ] [Notes](Algorithms/Sorting/Merge_sort.pdf)  
     - [ ] [Code](Algorithms/Sorting/Merge_sort.py)
     
-* Searching
+* Searching  
   - BFS 
     - [x] [Notes](Algorithms/BFS/BFS.pdf)  
     - [ ] [Code](Algorithms/BFS/BFS.py)
@@ -31,34 +31,33 @@ _An algorithm a day .._
     - [x] [DFS numbering](Algorithms/DFS/DFS_numbering.pdf)
     - [x] [DFS numbering for directed graphs](Algorithms/DFS/DFS_numbering_for_directed_graphs.pdf)
     - [ ] [DFS numbering code](Algorithms/DFS/DFS_numbering.py)
-
   - Finding articulation points
     - [x] [Notes](Algorithms/ArticulationPoints/Articulation_points.pdf)  
     - [ ] [Code](Algorithms/ArticulationPoints/Articulation_points.py)
 
 * Minimum spanning tree (Greedy)
-    - Kruskal's algorithm
-      - [x] [Notes](Algorithms/MinimumSpanningTree/Kruskal/Kruskal_algorithm.pdf)
-      - [ ] [Code](Algorithms/MinimumSpanningTree/Kruskal/Kruskal.py)
-    - Prim's algorithm  
-      - [x] [Notes](Algorithms/MinimumSpanningTree/Prim/Prim_algorithm.pdf)
-      - [ ] [Code](Algorithms/MinimumSpanningTree/Prim/Prim.py) 
+  - Kruskal's algorithm
+    - [x] [Notes](Algorithms/MinimumSpanningTree/Kruskal/Kruskal_algorithm.pdf)
+    - [ ] [Code](Algorithms/MinimumSpanningTree/Kruskal/Kruskal.py)
+  - Prim's algorithm  
+    - [x] [Notes](Algorithms/MinimumSpanningTree/Prim/Prim_algorithm.pdf)
+    - [ ] [Code](Algorithms/MinimumSpanningTree/Prim/Prim.py) 
 
 * Shortest paths (Greedy)
-   - [x] Dijkstra's algorithm for shortest path from source
-   - [x] Dijkstra with priority queues
-   - [x] Bellman-Ford
-   - [x] All pairs shortest paths
+  - [x] Dijkstra's algorithm for shortest path from source
+  - [x] Dijkstra with priority queues
+  - [x] Bellman-Ford
+  - [x] All pairs shortest paths
    
-*  Topological Sort
-   - [x] [Notes](Algorithms/TopologicalSort/SortingDAG.pdf)
-   - [ ] [Code for shortest path in a DAG](Algorithms/TopologicalSort/shortest_path_in_dag.py)
-   - [ ] [Code for longest path in a DAG](Algorithms/TopologicalSort/longest_path_in_dag.py)
+* Topological Sort
+  - [x] [Notes](Algorithms/TopologicalSort/SortingDAG.pdf)
+  - [ ] [Code for shortest path in a DAG](Algorithms/TopologicalSort/shortest_path_in_dag.py)
+  - [ ] [Code for longest path in a DAG](Algorithms/TopologicalSort/longest_path_in_dag.py)
 
-*  Scheduling (Greedy)
-   - [x] [Interval Scheduling](Algorithms/Scheduling/Interval_scheduling.pdf)
-   - [x] [Minimizing Maximum Lateness](Algorithms/Scheduling/Minimizing_max_lateness.pdf)
-   - [x] [Huffman codes](Algorithms/HuffmanCodes/Huffman_codes.pdf) 
+* Scheduling (Greedy)
+  - [x] [Interval Scheduling](Algorithms/Scheduling/Interval_scheduling.pdf)
+  - [x] [Minimizing Maximum Lateness](Algorithms/Scheduling/Minimizing_max_lateness.pdf)
+  - [x] [Huffman codes](Algorithms/HuffmanCodes/Huffman_codes.pdf) 
 
 * Divide and Conquer
   - Counting inversions  
@@ -75,20 +74,20 @@ _An algorithm a day .._
    - [ ] [Matrix multiplication Code](Algorithms/DynamicProgramming/Matrix_multiplication.py)
 
 * Sliding Windows  
-   - Minimum window length
-     - [x] [Notes](Algorithms/SlidingWindow/MinimumWindowLength.pdf)
-     - [ ] [Code](Algorithms/SlidingWindow/MinimumWindowLength.py)
-   - Max bit flip
-     - [x] [Notes](Algorithms/SlidingWindow/BitFlip.pdf)
-     - [ ] [Code](Algorithms/SlidingWindow/MinimumWindowLength.py)
-   - Max sum subarray
-     - [x] [Notes](Algorithms/SlidingWindow/MaxSumSubarray.pdf)
-     - [ ] [Code](Algorithms/SlidingWindow/MinimumWindowLength.py)
+  - Minimum window length
+    - [x] [Notes](Algorithms/SlidingWindow/MinimumWindowLength.pdf)
+    - [ ] [Code](Algorithms/SlidingWindow/MinimumWindowLength.py)
+  - Max bit flip
+    - [x] [Notes](Algorithms/SlidingWindow/BitFlip.pdf)
+    - [ ] [Code](Algorithms/SlidingWindow/MinimumWindowLength.py)
+  - Max sum subarray
+    - [x] [Notes](Algorithms/SlidingWindow/MaxSumSubarray.pdf)
+    - [ ] [Code](Algorithms/SlidingWindow/MinimumWindowLength.py)
    
 * Linear Programming 
-   - [x] [Production Planning example/Simplex](Algorithms/LinearProgramming/LP-ProductionPlanning_example.pdf)
-   - [x] [Bandwidth Allocation example/Simplex](Algorithms/LinearProgramming/LP-BandwidthAllocation_example.pdf)
-   - [ ] [Code](Algorithms/LinearProgramming/LP.py)
+  - [x] [Production Planning example/Simplex](Algorithms/LinearProgramming/LP-ProductionPlanning_example.pdf)
+  - [x] [Bandwidth Allocation example/Simplex](Algorithms/LinearProgramming/LP-BandwidthAllocation_example.pdf)
+  - [ ] [Code](Algorithms/LinearProgramming/LP.py)
    
 * Network Flows  
   - [x] [Notes](Algorithms/LinearProgramming/NetworkFlows/NetworkFlows.pdf)  
@@ -102,9 +101,9 @@ _An algorithm a day .._
   - [ ] [Code](Algorithms/KMP/KMP.py)   
     
 * Streaming Algorithms
-   - Bayer Moore algorithm
-     - [x] [Notes](Algorithms/StreamingAlgorithms/BayerMoore.pdf)
-     - [ ] [Code](Algorithms/StreamingAlgorithms/BayerMoore.py)
+  - Bayer Moore algorithm
+    - [x] [Notes](Algorithms/StreamingAlgorithms/BayerMoore.pdf)
+    - [ ] [Code](Algorithms/StreamingAlgorithms/BayerMoore.py)
    
  
 
