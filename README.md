@@ -29,7 +29,7 @@ _An algorithm a day .._
     - [ ] [Code](Algorithms/DFS/DFS.py)
     - [x] [DFS numbering](Algorithms/DFS/DFS_numbering.pdf)
     - [x] [DFS numbering for directed graphs](Algorithms/DFS/DFS_numbering_for_directed_graphs.pdf)
-    - [ ] [DFS numbering code](Algorithms/DFS/DFS_numbering.py)
+    - [ ] [Code for DFS numbering code](Algorithms/DFS/DFS_numbering.py)
   - Finding articulation points
     - [x] [Notes](Algorithms/ArticulationPoints/Articulation_points.pdf)  
     - [ ] [Code](Algorithms/ArticulationPoints/Articulation_points.py)
@@ -72,7 +72,7 @@ _An algorithm a day .._
    - [x] [DP vs memoization](Algorithms/DynamicProgramming/DPvsMemoization.pdf)
    - [x] [Grid paths, common subwords/sequences, edit distances](Algorithms/DynamicProgramming/DP_problems.pdf)
    - [x] [Matrix multiplication](Algorithms/DynamicProgramming/Matrix_multiplication.pdf)
-   - [ ] [Matrix multiplication Code](Algorithms/DynamicProgramming/Matrix_multiplication.py)
+   - [ ] [Code for Matrix multiplication](Algorithms/DynamicProgramming/Matrix_multiplication.py)
 * Sliding Windows  
   - Minimum window length
     - [x] [Notes](Algorithms/SlidingWindow/MinimumWindowLength.pdf)
@@ -91,7 +91,7 @@ _An algorithm a day .._
   - [x] [Notes](Algorithms/LinearProgramming/NetworkFlows/NetworkFlows.pdf)  
   - [ ] [Code](Algorithms/LinearProgramming/NetworkFlows/NetworkFlows.py)
   - [x] [Bipartite Matching Notes](Algorithms/LinearProgramming/NetworkFlows/BipartiteMatching.pdf)
-  - [ ] [Bipartite Matching Code](Algorithms/LinearProgramming/NetworkFlows/BipartiteMatching.py)
+  - [ ] [Code for Bipartite Matching](Algorithms/LinearProgramming/NetworkFlows/BipartiteMatching.py)
 * KMP 
   - [x] [KMP Text matching](Algorithms/KMP/KMP-textmatching.pdf)   
   - [x] [KMP Prefix Suffix Table](Algorithms/KMP/KMP-prefix_suffix_table.pdf)  
