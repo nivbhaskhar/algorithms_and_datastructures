@@ -1,4 +1,4 @@
-# algorithms_and_datastructures
+# Algorithms and Datastructures
 > An algorithm a day ..
 
 
