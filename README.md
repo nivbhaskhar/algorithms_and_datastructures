@@ -9,28 +9,32 @@ _An algorithm a day .._
   - Quick sort
     - [x] [Notes](Algorithms/Sorting/Quick_sort.pdf)
     - [ ] [Code](Algorithms/Sorting/Quick_sort.py)  
-    
   - Insertion sort  
     - [x] [Notes](Algorithms/Sorting/Insertion_sort.pdf)  
-    - [ ] [Code](Algorithms/Sorting/Insertion_sort.py)  
-    
+    - [ ] [Code](Algorithms/Sorting/Insertion_sort.py)    
   - Selection sort  
     - [x] [Notes](Algorithms/Sorting/Selection_sort.pdf)  
-    - [ ] [Code](Algorithms/Sorting/Selection_sort.py)  
-    
+    - [ ] [Code](Algorithms/Sorting/Selection_sort.py)    
   - Bubble sort
     - [ ] [Notes](Algorithms/Sorting/Bubble_sort.pdf)  
-    - [ ] [Code](Algorithms/Sorting/Bubble_sort.py)    
-    
+    - [ ] [Code](Algorithms/Sorting/Bubble_sort.py)      
   - Merge sort
     - [ ] [Notes](Algorithms/Sorting/Merge_sort.pdf)  
     - [ ] [Code](Algorithms/Sorting/Merge_sort.py)
  
-*  Searching
+* Searching
 
-   - [x] BFS 
-   - [x] DFS
-   - [x] Finding articulation points
+  - BFS 
+    - [x] [Notes](Algorithms/BFS/BFS.pdf)  
+    - [ ] [Code](Algorithms/BFS/BFS.py)
+    - [x] Sample problem [Notes](Algorithms/BFS/BFS_problem.pdf), [Code](Algorithms/BFS/BFS_problem.py)
+  - DFS  
+    - [x] [Notes](Algorithms/DFS/DFS.pdf), [DFS no.](Algorithms/DFS/DFS_numbering.pdf), [DFS no. for directed graphs](Algorithms/DFS/DFS_numbering_ for_directed_graphs.pdf)  
+    - [ ] [Code](Algorithms/DFS/DFS.py)
+    - [ ] Sample problem [Notes](Algorithms/DFS/DFS_problem.pdf), [Code](Algorithms/DFS/DFS_problem.py)
+  - Finding articulation points
+    - [x] [Notes](Algorithms/ArticulationPoints/Articulation_points.pdf)  
+    - [ ] [Code](Algorithms/ArticulationPoints/Articulation_points.py)
 
 
 * Minimum spanning tree (Greedy)
@@ -118,8 +122,5 @@ _An algorithm a day .._
 * Bit Manipulation
 
 
-### Code
-
-* In order traversal 
 
 
