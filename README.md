@@ -7,19 +7,24 @@ _An algorithm a day .._
 * Sorting
 
   - Quick sort
-    - [x][Notes](Algorithms/Sorting/Quick_sort.pdf), [ ][Code](Algorithms/Sorting/Quick_sort.py)  
+    - [x] [Notes](Algorithms/Sorting/Quick_sort.pdf)
+    - [ ] [Code](Algorithms/Sorting/Quick_sort.py)  
     
-  - Insertion sort
-    - [x][Notes](Algorithms/Sorting/Insertion_sort.pdf), [ ][Code](Algorithms/Sorting/Insertion_sort.py)  
+  - Insertion sort  
+    - [x] [Notes](Algorithms/Sorting/Insertion_sort.pdf)  
+    - [ ] [Code](Algorithms/Sorting/Insertion_sort.py)  
     
-  - Selection sort 
-    -[x][Notes](Algorithms/Sorting/Selection_sort.pdf), [ ][Code](Algorithms/Sorting/Selection_sort.py)
+  - Selection sort  
+    - [x] [Notes](Algorithms/Sorting/Selection_sort.pdf)  
+    - [ ] [Code](Algorithms/Sorting/Selection_sort.py)  
     
   - Bubble sort
-    -[ ][Notes](Algorithms/Sorting/Bubble_sort.pdf), [ ][Code](Algorithms/Sorting/Bubble_sort.py)  
+    - [ ] [Notes](Algorithms/Sorting/Bubble_sort.pdf)  
+    - [ ] [Code](Algorithms/Sorting/Bubble_sort.py)    
     
   - Merge sort
-    -[ ][Notes](Algorithms/Sorting/Merge_sort.pdf), [ ][Code](Algorithms/Sorting/Merge_sort.py)
+    - [ ] [Notes](Algorithms/Sorting/Merge_sort.pdf)  
+    - [ ] [Code](Algorithms/Sorting/Merge_sort.py)
  
 *  Searching
 
