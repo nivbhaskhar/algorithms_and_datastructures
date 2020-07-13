@@ -5,7 +5,6 @@ _An algorithm a day .._
 ### Algorithms 
 
 * Sorting
-
   - Quick sort
     - [x] [Notes](Algorithms/Sorting/Quick_sort.pdf)
     - [ ] [Code](Algorithms/Sorting/Quick_sort.py)  
@@ -23,7 +22,6 @@ _An algorithm a day .._
     - [ ] [Code](Algorithms/Sorting/Merge_sort.py)
  
 * Searching
-
   - BFS 
     - [x] [Notes](Algorithms/BFS/BFS.pdf)  
     - [ ] [Code](Algorithms/BFS/BFS.py)
@@ -38,24 +36,20 @@ _An algorithm a day .._
 
 
 * Minimum spanning tree (Greedy)
-
     - [x] Kruskal's algorithm (with Union Find)
     - [x] Prim's algorithm (with priority queues)
 
 * Shortest paths (Greedy)
-
    - [x] Dijkstra's algorithm for shortest path from source
    - [x] Dijkstra with priority queues
    - [x] Bellman-Ford
    - [x] All pairs shortest paths
    
 *  Topological Sort
-
    - [x] Longest path in a DAG  
    - [x] Shortest path in a DAG  
 
 *  Scheduling (Greedy)
-    
    - [x] Interval Scheduling
    - [x] Minimizing Maximum Lateness
    - [ ] Minimizing (sum of lateness)
@@ -63,7 +57,6 @@ _An algorithm a day .._
    - [x] [Huffman codes](Algorithms/HuffmanCodes/Huffman_codes.pdf) 
 
 * Divide and Conquer
-
   - Counting inversions  
     - [x] [Notes](Algorithms/DivideConquer/DivideConquer_inversions.pdf)  
     - [ ] [Code](Algorithms/DivideConquer/DivideConquer_inversions.py)
@@ -73,30 +66,29 @@ _An algorithm a day .._
   
 
 * Dynamic Programming
-
    - [x] [DP vs memoization](/Algorithms/DynamicProgramming/DPvsMemoization.pdf)
    - [x] [Grid paths, common subwords/sequences, edit distances](Algorithms/DynamicProgramming/DP_problems.pdf)
    - [x] [Matrix multiplication](Algorithms/DynamicProgramming/Matrix_multiplication.pdf)
    - [ ] [Matrix multiplication Code](Algorithms/DynamicProgramming/Matrix_multiplication.py)
 
 
-* Sliding Windows 
-   
+* Sliding Windows  
    - [x] Minimum window length
    - [x] Max bit flip
    - [x] Max sum subarray  
    
-* Linear Programming
+* Linear Programming 
+   - [x] [Production Planning example/Simplex](Algorithms/LinearProgramming/LP-ProductionPlanning_example.pdf)
+   - [x] [Bandwidth Allocation example/Simplex](Algorithms/LinearProgramming/LP-BandwidthAllocation_example.pdf)
+   - [ ] [Code]()
    
-   - [x] Production Planning example/Simplex
-   - [x] Bandwidth Allocation example/Simplex
-   
-   - Network Flows
-      - [x] Network Flows
-      - [x] Bipartite Matching
+* Network Flows  
+  - [x] [Notes](Algorithms/LinearProgramming/NetworkFlows/NetworkFlows.pdf)  
+  - [ ] [Code](Algorithms/LinearProgramming/NetworkFlows/NetworkFlows.py)
+  - [x] [Bipartite Matching Notes](Algorithms/LinearProgramming/NetworkFlows/BipartiteMatching.pdf)
+  - [ ] [Bipartite Matching Code](Algorithms/LinearProgramming/NetworkFlows/BipartiteMatching.py)
  
 * KMP 
-
   - [x] [KMP Text matching](Algorithms/KMP/KMP-textmatching.pdf)   
   - [x] [KMP Prefix Suffix Table](Algorithms/KMP/KMP-prefix_suffix_table.pdf)  
   - [ ] [Code](Algorithms/KMP/KMP.py)  
@@ -104,13 +96,9 @@ _An algorithm a day .._
    
     
 * Streaming Algorithms
-
    - [x] Bayer Moore algorithm
    
- * Matching 
  
-   - [x] Blossom algorithm 
-
 
 
 
