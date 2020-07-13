@@ -1,16 +1,25 @@
 # Algorithms and Datastructures
-> An algorithm a day ..
+_An algorithm a day .._  
 
 
 ### Algorithms 
 
 * Sorting
 
-  - [x] Quick sort
-  - [x] Insertion sort
-  - [x] Selection sort
-  - [ ] Bubble sort
-  - [ ] Merge sort
+  - Quick sort
+    - [x][Notes](Algorithms/Sorting/Quick_sort.pdf), [ ][Code](Algorithms/Sorting/Quick_sort.py)  
+    
+  - Insertion sort
+    - [x][Notes](Algorithms/Sorting/Insertion_sort.pdf), [ ][Code](Algorithms/Sorting/Insertion_sort.py)  
+    
+  - Selection sort 
+    -[x][Notes](Algorithms/Sorting/Selection_sort.pdf), [ ][Code](Algorithms/Sorting/Selection_sort.py)
+    
+  - Bubble sort
+    -[ ][Notes](Algorithms/Sorting/Bubble_sort.pdf), [ ][Code](Algorithms/Sorting/Bubble_sort.py)  
+    
+  - Merge sort
+    -[ ][Notes](Algorithms/Sorting/Merge_sort.pdf), [ ][Code](Algorithms/Sorting/Merge_sort.py)
  
 *  Searching
 
