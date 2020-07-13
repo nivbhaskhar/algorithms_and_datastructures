@@ -20,7 +20,7 @@ _An algorithm a day .._
   - Merge sort
     - [ ] [Notes](Algorithms/Sorting/Merge_sort.pdf)  
     - [ ] [Code](Algorithms/Sorting/Merge_sort.py)
- 
+    
 * Searching
   - BFS 
     - [x] [Notes](Algorithms/BFS/BFS.pdf)  
@@ -34,10 +34,13 @@ _An algorithm a day .._
     - [x] [Notes](Algorithms/ArticulationPoints/Articulation_points.pdf)  
     - [ ] [Code](Algorithms/ArticulationPoints/Articulation_points.py)
 
-
 * Minimum spanning tree (Greedy)
-    - [x] Kruskal's algorithm (with Union Find)
-    - [x] Prim's algorithm (with priority queues)
+    - Kruskal's algorithm
+      - [x] [Notes](/Algorithms/MinimumSpanningTree/Kruskal/Kruskal_algorithm.pdf)
+      - [ ] [Sample problem](/Algorithms/MinimumSpanningTree/Kruskal/Kruskal_problem.py)
+    - Prim's algorithm  
+      - [x] [Notes](/Algorithms/MinimumSpanningTree/Prim/Prim_algorithm.pdf)
+      - [ ] [Sample problem]((/Algorithms/MinimumSpanningTree/Prim/Prim_problem.py) 
 
 * Shortest paths (Greedy)
    - [x] Dijkstra's algorithm for shortest path from source
@@ -46,14 +49,13 @@ _An algorithm a day .._
    - [x] All pairs shortest paths
    
 *  Topological Sort
-   - [x] Longest path in a DAG  
-   - [x] Shortest path in a DAG  
+   - [x] [Notes](Algorithms/TopologicalSort/SortingDAG.pdf)
+   - [x] [Code for shortest path in a DAG](Algorithms/TopologicalSort/shortest_path_in_dag_problem.py)
+   - [x] [Code for longest path in a DAG](Algorithms/TopologicalSort/longest_path_in_dag_problem.py)
 
 *  Scheduling (Greedy)
-   - [x] Interval Scheduling
-   - [x] Minimizing Maximum Lateness
-   - [ ] Minimizing (sum of lateness)
-   - [ ] Interval scheduling problem
+   - [x] [Interval Scheduling](Algorithms/Scheduling/Interval_scheduling.pdf)
+   - [x] [Minimizing Maximum Lateness](Algorithms/Scheduling/Minimizing_max_lateness.pdf)
    - [x] [Huffman codes](Algorithms/HuffmanCodes/Huffman_codes.pdf) 
 
 * Divide and Conquer
@@ -62,25 +64,29 @@ _An algorithm a day .._
     - [ ] [Code](Algorithms/DivideConquer/DivideConquer_inversions.py)
   - Closest Pair of Points  
     - [x] [Notes](Algorithms/DivideConquer/DivideConquer_closestpairofpoints.pdf)  
-    - [ ] [Code](Algorithms/DivideConquer/DivideConquer_closestpairofpoints.py)
-  
-
+    - [ ] [Code](Algorithms/DivideConquer/DivideConquer_closestpairofpoints.py) 
+    
 * Dynamic Programming
-   - [x] [DP vs memoization](/Algorithms/DynamicProgramming/DPvsMemoization.pdf)
+   - [x] [DP vs memoization](Algorithms/DynamicProgramming/DPvsMemoization.pdf)
    - [x] [Grid paths, common subwords/sequences, edit distances](Algorithms/DynamicProgramming/DP_problems.pdf)
    - [x] [Matrix multiplication](Algorithms/DynamicProgramming/Matrix_multiplication.pdf)
    - [ ] [Matrix multiplication Code](Algorithms/DynamicProgramming/Matrix_multiplication.py)
 
-
 * Sliding Windows  
-   - [x] Minimum window length
-   - [x] Max bit flip
-   - [x] Max sum subarray  
+   - Minimum window length
+     - [x] [Notes](Algorithms/SlidingWindow/MinimumWindowLength.pdf)
+     - [ ] [Code](Algorithms/SlidingWindow/MinimumWindowLength.py)
+   - Max bit flip
+     - [x] [Notes](Algorithms/SlidingWindow/BitFlip.pdf)
+     - [ ] [Code](Algorithms/SlidingWindow/MinimumWindowLength.py)
+   - Max sum subarray
+     - [x] [Notes](Algorithms/SlidingWindow/MaxSumSubarray.pdf)
+     - [ ] [Code](Algorithms/SlidingWindow/MinimumWindowLength.py)
    
 * Linear Programming 
    - [x] [Production Planning example/Simplex](Algorithms/LinearProgramming/LP-ProductionPlanning_example.pdf)
    - [x] [Bandwidth Allocation example/Simplex](Algorithms/LinearProgramming/LP-BandwidthAllocation_example.pdf)
-   - [ ] [Code]()
+   - [ ] [Code](Algorithms/LinearProgramming/LP.py)
    
 * Network Flows  
   - [x] [Notes](Algorithms/LinearProgramming/NetworkFlows/NetworkFlows.pdf)  
@@ -91,12 +97,12 @@ _An algorithm a day .._
 * KMP 
   - [x] [KMP Text matching](Algorithms/KMP/KMP-textmatching.pdf)   
   - [x] [KMP Prefix Suffix Table](Algorithms/KMP/KMP-prefix_suffix_table.pdf)  
-  - [ ] [Code](Algorithms/KMP/KMP.py)  
-
-   
+  - [ ] [Code](Algorithms/KMP/KMP.py)   
     
 * Streaming Algorithms
-   - [x] Bayer Moore algorithm
+   - Bayer Moore algorithm
+     - [x] [Notes](Algorithms/StreamingAlgorithms/BayerMoore.pdf)
+     - [ ] [Code](Algorithms/StreamingAlgorithms/BayerMoore.py)
    
  
 
