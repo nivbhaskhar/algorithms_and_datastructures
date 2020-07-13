@@ -25,22 +25,24 @@ _An algorithm a day .._
   - BFS 
     - [x] [Notes](Algorithms/BFS/BFS.pdf)  
     - [ ] [Code](Algorithms/BFS/BFS.py)
-    - [x] Sample problem : [Notes](Algorithms/BFS/BFS_problem.pdf), [Code](Algorithms/BFS/BFS_problem.py)
   - DFS  
-    - [x] [Notes](Algorithms/DFS/DFS.pdf), [DFS numbering](Algorithms/DFS/DFS_numbering.pdf), [DFS numbering for directed graphs](Algorithms/DFS/DFS_numbering_for_directed_graphs.pdf)  
+    - [x] [Notes](Algorithms/DFS/DFS.pdf)
     - [ ] [Code](Algorithms/DFS/DFS.py)
-    - [ ] Sample problem : [Notes](Algorithms/DFS/DFS_problem.pdf), [Code](Algorithms/DFS/DFS_problem.py)
+    - [x] [DFS numbering](Algorithms/DFS/DFS_numbering.pdf)
+    - [x] [DFS numbering for directed graphs](Algorithms/DFS/DFS_numbering_for_directed_graphs.pdf)
+    - [ ] [DFS numbering code](Algorithms/DFS/DFS_numbering.py)
+
   - Finding articulation points
     - [x] [Notes](Algorithms/ArticulationPoints/Articulation_points.pdf)  
     - [ ] [Code](Algorithms/ArticulationPoints/Articulation_points.py)
 
 * Minimum spanning tree (Greedy)
     - Kruskal's algorithm
-      - [x] [Notes](/Algorithms/MinimumSpanningTree/Kruskal/Kruskal_algorithm.pdf)
-      - [ ] [Sample problem](/Algorithms/MinimumSpanningTree/Kruskal/Kruskal_problem.py)
+      - [x] [Notes](Algorithms/MinimumSpanningTree/Kruskal/Kruskal_algorithm.pdf)
+      - [ ] [Code](Algorithms/MinimumSpanningTree/Kruskal/Kruskal.py)
     - Prim's algorithm  
-      - [x] [Notes](/Algorithms/MinimumSpanningTree/Prim/Prim_algorithm.pdf)
-      - [ ] [Sample problem]((/Algorithms/MinimumSpanningTree/Prim/Prim_problem.py) 
+      - [x] [Notes](Algorithms/MinimumSpanningTree/Prim/Prim_algorithm.pdf)
+      - [ ] [Code](Algorithms/MinimumSpanningTree/Prim/Prim.py) 
 
 * Shortest paths (Greedy)
    - [x] Dijkstra's algorithm for shortest path from source
@@ -50,8 +52,8 @@ _An algorithm a day .._
    
 *  Topological Sort
    - [x] [Notes](Algorithms/TopologicalSort/SortingDAG.pdf)
-   - [x] [Code for shortest path in a DAG](Algorithms/TopologicalSort/shortest_path_in_dag_problem.py)
-   - [x] [Code for longest path in a DAG](Algorithms/TopologicalSort/longest_path_in_dag_problem.py)
+   - [ ] [Code for shortest path in a DAG](Algorithms/TopologicalSort/shortest_path_in_dag.py)
+   - [ ] [Code for longest path in a DAG](Algorithms/TopologicalSort/longest_path_in_dag.py)
 
 *  Scheduling (Greedy)
    - [x] [Interval Scheduling](Algorithms/Scheduling/Interval_scheduling.pdf)
