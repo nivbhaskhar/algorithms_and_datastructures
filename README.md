@@ -105,17 +105,25 @@ _An algorithm a day .._
 
 ### Data Structures
 
+* Arrays and strings - [x] [Notes](DataStructures/ArraysStrings/.pdf)
+* Hash Tables - [x](DataStructures/HashTables.pdf)
 * Stacks and Queues
 * Union Find 
 * Heaps
 * Priority queues
 * Binary Search Trees
+* Trie 
+    - [x] [Notes](DataStructures/Trees/Trie.pdf)
+    - [ ] [Code]()
+
+
 
 
 
 ### Techniques
 
-* Bit Manipulation
+* Bit Manipulation - [x] [Notes](Techniques/BitManipulation.pdf)
+
 
 
 
