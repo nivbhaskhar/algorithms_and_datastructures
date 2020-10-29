@@ -106,9 +106,9 @@ _An algorithm a day .._
 ### Data Structures
 
 * Arrays and strings 
-  - [x] [Notes](DataStructures/ArraysStrings.pdf)
+    - [x] [Notes](DataStructures/ArraysStrings.pdf)
 * Hash Tables 
-  - [x] [Notes](DataStructures/HashTables.pdf)
+    - [x] [Notes](DataStructures/HashTables.pdf)
 * Stacks and Queues
 * Union Find 
 * Heaps
@@ -124,7 +124,8 @@ _An algorithm a day .._
 
 ### Techniques
 
-* Bit Manipulation - [x] [Notes](Techniques/BitManipulation.pdf)
+* Bit Manipulation 
+    - [x] [Notes](Techniques/BitManipulation.pdf)
 
 
 
