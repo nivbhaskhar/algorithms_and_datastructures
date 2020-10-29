@@ -105,8 +105,10 @@ _An algorithm a day .._
 
 ### Data Structures
 
-* Arrays and strings - [x] [Notes](DataStructures/ArraysStrings/.pdf)
-* Hash Tables - [x](DataStructures/HashTables.pdf)
+* Arrays and strings 
+  - [x] [Notes](DataStructures/ArraysStrings.pdf)
+* Hash Tables 
+  - [x][Notes](DataStructures/HashTables.pdf)
 * Stacks and Queues
 * Union Find 
 * Heaps
