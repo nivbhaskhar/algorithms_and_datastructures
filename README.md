@@ -113,19 +113,19 @@ _An algorithm a day .._
     - [x] [Notes](DataStructures/LinkedLists/Linked_lists.pdf)
 * Stacks and Queues
 * Trees 
-    - Tree Traversals [x] [Notes](DataStructures/Trees/Trie.pdf)
-    - Trie [x] [Notes](DataStructures/Trees/Tree_traversals.pdf)
+    - [x] [Tree Traversals](DataStructures/Trees/Trie.pdf)
+    - [x] [Trie](DataStructures/Trees/Tree_traversals.pdf)
 * Union Find
-    - Using arrays [x] [Notes](DataStructures/UnionFind/UnionFind_arrayimplementation.pdf)
-    - Using pointers [x] [Notes](DataStructures/UnionFind/UnionFind-pointerimplementation)
+    - [x] [Using arrays](DataStructures/UnionFind/UnionFind_arrayimplementation.pdf)
+    - [x] [Using pointers](DataStructures/UnionFind/UnionFind-pointerimplementation)
 * Heaps
-   - Part 1 [x] [Notes](DataStructures/Heaps/Heaps_1.pdf)
-   - Part 2 [x] [Notes](DataStructures/Heaps/Heaps_2.pdf)
+    - [x] [Part 1](DataStructures/Heaps/Heaps_1.pdf)
+    - [x] [Part 2](DataStructures/Heaps/Heaps_2.pdf)
 * Priority queues 
-   - [x] [Notes](DataStructures/PriorityQueue/Priority_queues.pdf)
+    - [x] [Notes](DataStructures/PriorityQueue/Priority_queues.pdf)
 * Binary Trees
-     - Binary Search Trees [x] [Notes](DataStructures/BinarySearchTrees/Binary_search_trees.pdf)
-     - Balanced Binary Trees [x][Notes](DataStructures/BinarySearchTrees/Balanced_binary_trees.pdf)
+    - [x] [Binary Search Trees](DataStructures/BinarySearchTrees/Binary_search_trees.pdf)
+    - [x] [Balanced Binary Trees](DataStructures/BinarySearchTrees/Balanced_binary_trees.pdf)
 
 
 
