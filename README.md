@@ -109,14 +109,24 @@ _An algorithm a day .._
     - [x] [Notes](DataStructures/ArraysStrings.pdf)
 * Hash Tables 
     - [x] [Notes](DataStructures/HashTables.pdf)
+* Linked Lists
+    - [x] [Notes](DataStructures/LinkedLists/Linked_lists.pdf)
 * Stacks and Queues
-* Union Find 
+* Trees 
+    - Tree Traversals [x] [Notes](DataStructures/Trees/Trie.pdf)
+    - Trie [x] [Notes](DataStructures/Trees/Tree_traversals.pdf)
+* Union Find
+    - Using arrays [x] [Notes](DataStructures/UnionFind/UnionFind_arrayimplementation.pdf)
+    - Using pointers [x] [Notes](DataStructures/UnionFind/UnionFind-pointerimplementation)
 * Heaps
-* Priority queues
-* Binary Search Trees
-* Trie 
-    - [x] [Notes](DataStructures/Trees/Trie.pdf)
-    - [ ] [Code]()
+   - Part 1 [x] [Notes](DataStructures/Heaps/Heaps_1.pdf)
+   - Part 2 [x] [Notes](DataStructures/Heaps/Heaps_2.pdf)
+* Priority queues 
+   - [x] [Notes](DataStructures/PriorityQueue/Priority_queues.pdf)
+* Binary Trees
+     - Binary Search Trees [x] [Notes](DataStructures/BinarySearchTrees/Binary_search_trees.pdf)
+     - Balanced Binary Trees [x][Notes](DataStructures/BinarySearchTrees/Balanced_binary_trees.pdf)
+
 
 
 
