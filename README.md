@@ -15,11 +15,12 @@ _An algorithm a day .._
     - [x] [Notes](Algorithms/Sorting/Selection_sort.pdf)  
     - [ ] [Code](Algorithms/Sorting/Selection_sort.py)    
   - Bubble sort
-    - [ ] [Notes](Algorithms/Sorting/Bubble_sort.pdf)  
+    - [x] [Notes](Algorithms/Sorting/Sorting.pdf)  
     - [ ] [Code](Algorithms/Sorting/Bubble_sort.py)      
   - Merge sort
-    - [ ] [Notes](Algorithms/Sorting/Merge_sort.pdf)  
+    - [x] [Notes](Algorithms/Sorting/Sorting.pdf)  
     - [ ] [Code](Algorithms/Sorting/Merge_sort.py)  
+
 * Searching  
   - BFS 
     - [x] [Notes](Algorithms/BFS/BFS.pdf)  
