@@ -7,7 +7,7 @@ _An algorithm a day .._
 * Sorting
   - Quick sort
     - [x] [Notes](Algorithms/Sorting/Quick_sort.pdf)
-    - [ ] [Code](Algorithms/Sorting/Quick_sort.py)  
+    - [x] [Code](Algorithms/Sorting/Quick_sort.py)  
   - Insertion sort  
     - [x] [Notes](Algorithms/Sorting/Insertion_sort.pdf)  
     - [ ] [Code](Algorithms/Sorting/Insertion_sort.py)    
@@ -19,7 +19,7 @@ _An algorithm a day .._
     - [ ] [Code](Algorithms/Sorting/Bubble_sort.py)      
   - Merge sort
     - [x] [Notes](Algorithms/Sorting/Sorting.pdf)  
-    - [ ] [Code](Algorithms/Sorting/Merge_sort.py)  
+    - [x] [Code](Algorithms/Sorting/Merge_sort.py)  
 
 * Searching  
   - BFS 
