@@ -114,8 +114,8 @@ _An algorithm a day .._
     - [x] [Notes](DataStructures/LinkedLists/Linked_lists.pdf)
 * Stacks and Queues
 * Trees 
-    - [x] [Tree Traversals](DataStructures/Trees/Trie.pdf)
-    - [x] [Trie](DataStructures/Trees/Tree_traversals.pdf)
+    - [x] [Tree Traversals](DataStructures/Trees/Tree_traversals.pdf)
+    - [x] [Trie](DataStructures/Trees/Trie.pdf) [Code](DataStructures/Trees/Trie.py)
 * Union Find
     - [x] [Using arrays](DataStructures/UnionFind/UnionFind_arrayimplementation.pdf)
     - [x] [Using pointers](DataStructures/UnionFind/UnionFind-pointerimplementation)
