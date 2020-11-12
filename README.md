@@ -122,6 +122,7 @@ _An algorithm a day .._
 * Heaps
     - [x] [Part 1](DataStructures/Heaps/Heaps_1.pdf)
     - [x] [Part 2](DataStructures/Heaps/Heaps_2.pdf)
+    - [x] [Code](DataStructures/Heaps/heaps.py)
 * Priority queues 
     - [x] [Notes](DataStructures/PriorityQueue/Priority_queues.pdf)
 * Binary Trees
