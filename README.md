@@ -44,7 +44,7 @@ _An algorithm a day .._
 * Shortest paths (Greedy)
   - Dijkstra's algorithm for shortest path from source
     - [x] [Notes](Algorithms/ShortestPath/Dijkstra/Dijkstra_algorithm.pdf)
-    - [ ] [Code](Algorithms/ShortestPath/Dijkstra/Dijkstra_without_heaps.py)
+    - [x] [Code](Algorithms/ShortestPath/Dijkstra/Dijkstra_without_heaps.py)
   - Dijkstra with priority queues
     - [x] [Notes](Algorithms/ShortestPath/Dijkstra/Dijkstra_with_heaps.pdf)
     - [ ] [Code](Algorithms/ShortestPath/Dijkstra/Dijkstra_with_heaps.py)   
