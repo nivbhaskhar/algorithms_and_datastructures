@@ -45,7 +45,7 @@ _An algorithm a day .._
   - Dijkstra's algorithm for shortest path from source
     - [x] [Notes](Algorithms/ShortestPath/Dijkstra/Dijkstra_algorithm.pdf)
     - [x] [Code](Algorithms/ShortestPath/Dijkstra/Dijkstra_without_heaps.py)
-  - Dijkstra with priority queues
+  - Dijkstra with heaps
     - [x] [Notes](Algorithms/ShortestPath/Dijkstra/Dijkstra_with_heaps.pdf)
     - [ ] [Code](Algorithms/ShortestPath/Dijkstra/Dijkstra_with_heaps.py)   
   - Bellman-Ford
